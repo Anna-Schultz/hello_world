@@ -1,3 +1,3 @@
 # hello_world
-This is my first repository
-This is me editing to follow the tutorial
+print ("This is my first repository.")
+print ("This is me editing to follow the tutorial.")
